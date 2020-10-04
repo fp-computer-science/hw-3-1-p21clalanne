@@ -1,0 +1,4 @@
+Please read the assignment instructions carefully. These should have all been in separate files.
+
+Question 4 & 5
+Your exponent is reversed. What you put after the ** is the exponent, not the other way around.
